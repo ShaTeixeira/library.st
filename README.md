@@ -63,6 +63,7 @@ Seu desafio é criar uma página que possa ser adicionada livros novos para moni
 
 ## Modelo:
 O modelo está disponível na pasta `./design`<br>
+Sefue link do [figma](https://www.figma.com/file/8TaOmrFaWWQeKWaKanTLZ9/Library.dev), para acessar você necessita clicar uma conta e `duplicar` o projeto.
 
 ## Imagens
 As imagens utilizadas estão disponíveis na pasta `./assets`<br>
