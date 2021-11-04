@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="design/preview" alt="Logo" width="250" height="200">
+    <img src="./design/preview.png" alt="Logo" width="100%" height="100%">
 
   <h3 align="center">Library.st</h3>
 
@@ -33,13 +33,13 @@
 # Desafio
 Seu desafio é criar uma página que possa ser adicionada livros novos para monitoramento. O modelo final está disponível na pasta "design"
 
-<img src="design/mobile.png" width="380" height="380">
-<img src="design/desktop.png" width="580" height="380">
+<img src="./design/mobile.png" width="380" height="380">
+<img src="./design/desktop.png" width="580" height="380">
 
   
 # Techs: 
-- [HTML]()
-- [CSS]()
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 # Como começar:
 1 - Use esse template ou clone esse repositório com o código inicial<br>
