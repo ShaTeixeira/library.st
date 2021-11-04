@@ -33,8 +33,7 @@
 # Desafio
 Seu desafio é criar uma página que possa ser adicionada livros novos para monitoramento. O modelo final está disponível na pasta "design"
 
-<img src="./design/mobile.png" width="380" height="380">
-<img src="./design/desktop.png" width="580" height="380">
+<img src="./design/desktop.png" width="800" height="400">
 
   
 # Techs: 
